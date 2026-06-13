@@ -1,3 +1,7 @@
+#DISCLAMER : Copyright © 2026 crusader. All rights reserved. This project may not be copied, modified, redistributed, or claimed without permission. Discord: fake181
+
+حقوق النشر © 2026 crusader. جميع الحقوق محفوظة. لا يجوز نسخ هذا المشروع أو تعديله أو إعادة نشره أو نسبه إلى أي شخص آخر دون إذن مسبق. ديسكورد: fake181
+
 # Auto Pull
 
 ## 🇺🇸 English
